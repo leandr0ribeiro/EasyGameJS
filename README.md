@@ -15,7 +15,7 @@ Para executar o jogo, siga estas etapas:
 
 1. **Clone o repositório:**
     ```sh
-    git clone https://github.com/seu-usuario/simple-javascript-game.git](https://github.com/mrxl33t/EasyGameJS.git
+    git clone https://github.com/mrxl33t/EasyGameJS.git
     ```
 
 2. **Navegue até o diretório do projeto:**
