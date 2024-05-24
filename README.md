@@ -20,7 +20,7 @@ Para executar o jogo, siga estas etapas:
 
 2. **Navegue até o diretório do projeto:**
     ```sh
-    cd simple-javascript-game
+    cd EasyGameJS
     ```
 
 3. **Abra o `index.html` em um navegador:**
